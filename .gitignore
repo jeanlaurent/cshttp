@@ -1,0 +1,5 @@
+.iml
+*.iml
+.idea/
+CsHttp/bin/
+CsHttp/obj/
